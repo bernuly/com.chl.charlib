@@ -1,0 +1,12 @@
+{
+  "name": "com.chl.charlib",
+  "version": "1.0.0",
+  "displayName": "UnityCharactersLibrary",
+  "description": "Library of characters",
+  "unity": "2018.2",
+  "author": {
+    "name": "Ulysses Bernardet",
+    "email": "u.bernardet@aston.ac.uk",
+    "url": "https://cs.aston.ac.uk/chl"
+  }
+}
