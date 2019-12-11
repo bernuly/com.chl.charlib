@@ -1,7 +1,7 @@
 {
   "name": "com.chl.charlib",
   "version": "1.0.0",
-  "displayName": "UnityCharactersLibrary",
+  "displayName": "CHL Characters Library",
   "description": "Library of characters",
   "unity": "2018.2",
   "author": {
